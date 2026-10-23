@@ -3,7 +3,7 @@ METASPLOITABLE VULNERABILITY ANALYSIS:
 Find, Identify, and rate 10 vulnerabilities inside of a metasploitable machine using official documentation proceedings and methods.
 
 
-RESEARCH_EXPERIMENT.ZIP
+RESEARCH_EXPERIMENT.ZIP (Conatains technical files related to my experiment)
 
 Disclaimer:
 
