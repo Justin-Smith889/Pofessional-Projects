@@ -36,3 +36,7 @@ Environment:
     ArduPilot V4.8.0-dev,
     WSL2 Ubuntu on Windows
 
+Results:
+
+    I was able to find evidence that this CVE was valid as well as a myriad of other security flaws involving, packet tracing, and packets being accepted without full version negotiation.
+
